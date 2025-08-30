@@ -1,2 +1,2 @@
 # sistema-financeiro-python
-Versão inicial do sistema financeiro em Python
+Versão inicial do sistema bancário em Python
